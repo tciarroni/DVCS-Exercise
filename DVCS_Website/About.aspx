@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>GitHub.</h3>
-    <p>Use this area to provide additional information.</p>
+    <p>Change To the Paragraph Tags.</p>
 </asp:Content>

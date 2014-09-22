@@ -17,8 +17,10 @@
           url="~/Consulting.aspx" />
       <siteMapNode title="Support" description="Supports plans"
           url="~/Support.aspx" />
-      <siteMapNode title="MemberServices" description="Supports "
-          url="~/MemberServices.aspx" />
+      <siteMapNode url="~/MemberServices/SupportTickets.aspx" title="Tickets" description="Ticket Information" />
+      <siteMapNode title="MemberServices" description="Supports "  url="~/Services/MemberServices.aspx" />
+     <siteMapNode url="~/MemberServices/ProductDownloads.aspx" title="Downloads" description="Download Information" />
+      <siteMapNode url="~/MemberServices/RegisteredProducts.aspx" title="Registered Products" description="Products" />
     </siteMapNode>
     <siteMapNode title="About" description="About us" url="~/About.aspx" />
   </siteMapNode>
